@@ -1,0 +1,19 @@
+li {
+    display: inline;
+    padding: 10px;
+  }
+ .social{
+      top: 50px;
+  }
+  a {
+    padding: 8px; 
+    width: 100px;
+    height: 100px;
+    /* background: red; */
+    -webkit-transition: width 2s; /* Safari */
+    transition-timing-function: ease;
+    transition: width 2s;
+  }
+  a:hover{
+    width: 300px;
+  }
