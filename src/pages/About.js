@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Row, Col } from 'antd';
 import 'antd/dist/antd.css';
-import ''
+import image from './image.jpg'
 
 export default class About extends Component {
   render() {
@@ -9,7 +9,7 @@ export default class About extends Component {
       <div className>
         <Row>
             <Col xs={2} sm={4} md={6} lg={8} xl={10}>
-                <img src="./pages/image.jpg"/>
+                <img src={image} alt="image"/>
             </Col>
             <Col xs={2} sm={4} md={6} lg={8}xl={10}>
                 <h1>About Me</h1>
