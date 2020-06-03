@@ -24,7 +24,7 @@ export default class Contact extends Component {
             </a>
         </li>
         <li>
-            <a href="https://twitter.com/sadiq123ali" target="_blank">
+            <a href="https://twitter.com/Mohamme86005048" target="_blank">
                 <i class="fab fa-twitter"></i>
             </a>
         </li>
@@ -33,9 +33,10 @@ export default class Contact extends Component {
                 <i class="fas fa-envelope-square"></i>
             </a>
         </li>
+        
         <li>
-            <a href="http://gmail.com" target="_blank">
-                <i className="fab fa-google"></i>
+            <a href="https://www.instagram.com/sadiqcruze" target="_blank">
+                <i className="fab fa-instagram"></i>
             </a>
         </li>
         <li>

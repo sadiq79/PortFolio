@@ -14,11 +14,11 @@ export default class About extends Component {
             <Col xs={2} sm={4} md={6} lg={8}xl={10}>
                 <h1>About Me</h1>
                     <p>
-                     "I have finished my Frontend Development from Soal
+                     "I had completed Frontend Development from School of accelerated Learning.
                     </p>       
                 <h2>Contact Details</h2>
                     <p>
-                        <span>Mohammed Sadiq ALi</span>
+                        <span>Mohammed Sadiq Ali</span>
                         <br/>
                         <span>https://www.google.com</span>
                     </p>
